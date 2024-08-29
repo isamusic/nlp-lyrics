@@ -1,9 +1,9 @@
 #nlp-lyrics
 
-Currently this project involves building and analyzing a dataframe of one musician's comprehensive discography. \n
-Twenty one pilots is the selected example. \n
+Currently this project involves building and analyzing a dataframe of one musician's comprehensive discography. \
+Twenty one pilots is the selected example. \
 
-Dataframe building is complete! \n
+Dataframe building is complete! \
 Albums:
 * 'Johnny Boy - EP'
 * 'Twenty One Pilots'
@@ -16,7 +16,7 @@ Albums:
 Singles:
 * 'Christmas Saves the Year'
 * 'Level of Concern'
-* 'Heathens' \n
+* 'Heathens' \
 
 I purposefully haven't included live ver., livestream ver., or covers of other artists' songs.
 
