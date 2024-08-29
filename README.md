@@ -4,6 +4,7 @@ Currently this project involves building and analyzing a dataframe of one musici
 Twenty one pilots is the selected example. 
 
 Dataframe building is complete! 
+
 Albums:
 * 'Johnny Boy - EP'
 * 'Twenty One Pilots'
