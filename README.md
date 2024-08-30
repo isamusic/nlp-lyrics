@@ -1,5 +1,11 @@
 #nlp-lyrics
 
+Hey clique! Want to be a part of this project?
+
+Share your own curiosities and thoughts here: https://forms.gle/Us27ZE14j6iUBVdB7
+
+This will help us decide what directions to take our research in!
+
 Currently this project involves building and analyzing a dataframe of one musician's comprehensive discography. \
 Twenty one pilots is the selected example. 
 
