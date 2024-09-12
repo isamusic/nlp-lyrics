@@ -28,3 +28,11 @@ Singles:
 
 I purposefully haven't included live ver., livestream ver., or covers of other artists' songs.
 
+### How to Run This Project Yourself
+* Install the required tools, starting with jupyterlab:
+  * [Install Jupyter Lab](https://jupyter.org/install)
+  * Once jupyter lab is installed, run 'jupyter lab' in terminal inside the repo folder.
+  * Once the JupyterLab tab has opened in your default browser, navigate to the "Lyrics-Analysis-twentyonepilots.ipynb" file and open it.
+  * Follow the further install directions inside this file, and you'll be able to run it!
+* This project uses [Seaborn](https://seaborn.pydata.org/installing.html) and [NLTK (Natural Language Tool Kit)](https://www.nltk.org/install.html) as NLP tools for coding with Python.
+
