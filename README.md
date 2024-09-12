@@ -35,4 +35,5 @@ I purposefully haven't included live ver., livestream ver., or covers of other a
   * Once the JupyterLab tab has opened in your default browser, navigate to the "Lyrics-Analysis-twentyonepilots.ipynb" file and open it.
   * Follow the further install directions inside this file, and you'll be able to run it!
 * This project uses [Seaborn](https://seaborn.pydata.org/installing.html) and [NLTK (Natural Language Tool Kit)](https://www.nltk.org/install.html) as NLP tools for coding with Python.
+* (You will also need to install [Matplotlib](https://matplotlib.org/stable/install/index.html) if you haven't already!)
 
